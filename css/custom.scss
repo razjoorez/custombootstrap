@@ -1,0 +1,11 @@
+$grid-columns:           24;
+$grid-gutter-width-base: 15px;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 400px,
+  md: 600px,
+  lg: 768px,
+  xl: 1170px
+) !default;
+@import "bootstrap";

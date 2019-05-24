@@ -1,0 +1,148 @@
+#top {
+    
+    background-color: darkblue;
+    
+}
+
+#main {
+    
+    background-color: white;
+    
+}
+
+
+#button-only
+    {
+        
+        min-height: 400px;
+    }
+
+/*#bottom {
+    
+    background-color: lightgoldenrodyellow;
+    
+}*/
+
+img {
+  width:1000px;
+  max-height:530px;
+  object-fit:cover;
+}
+
+/*.img1 {
+    
+    background-image: url(/images/casino-scene.jpg);
+     background-repeat: no-repeat;
+  background-size: auto;
+    min-height: 250px;
+}*/
+
+
+
+
+@media only screen and (max-width: 1170px) and (min-width: 768px)  {
+    
+    
+    .topcards
+{
+    
+    
+    min-height:320px;
+
+}
+    
+  .img1 {
+
+  min-height:680px;
+  height:800px;
+  
+  
+}
+    
+    
+    
+    
+    }
+
+
+
+@media only screen and (max-width: 600px) and (min-width: 400px)  {
+    
+    
+    .topcards
+{
+    
+    
+    max-height:400px;
+}
+    
+  .img1 {
+
+  min-height:800px;
+  object-fit:cover;
+}
+    
+ 
+    
+    
+    
+    
+    }
+
+
+@media only screen and (max-width: 900px) and (min-width: 768px)  {
+    
+    
+    .topcards
+{
+    
+    
+    max-height:400px;
+}
+    
+  .img1 {
+
+  min-height:800px;
+  object-fit:cover;
+}
+    
+    
+    
+    
+    }
+
+
+
+@media only screen and (max-width: 768px) and (min-width: 600px)  {
+    
+    
+    .topcards
+{
+    
+    
+    max-height:400px;
+}
+    
+  .img1 {
+
+  min-height:800px;
+  object-fit:cover;
+}
+    
+    
+    
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+    
+    
